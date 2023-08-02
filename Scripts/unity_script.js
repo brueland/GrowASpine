@@ -1,4 +1,3 @@
-<script>
 var container = document.querySelector("#unity-container");
 var canvas = document.querySelector("#unity-canvas");
 var loadingBar = document.querySelector("#unity-loading-bar");
@@ -89,4 +88,3 @@ script.onload = () => {
   });
 };
 document.body.appendChild(script);
-</script>
